@@ -3,7 +3,7 @@ import Hero from "./components/Hero";
 import Showcase from "./components/section/Showcase";
 import Resume from "./components/section/Resume";
 import Skills from "./components/section/Skills";
-import Cta from "./components/section/CTA";
+import Cta from "./components/section/Cta";
 import About from "./components/section/About";
 import Contact from "./components/section/Contact";
 
